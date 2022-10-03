@@ -1,0 +1,123 @@
+.message{
+    text-align:center;
+ 
+ }
+ .image {
+     margin: auto;
+     /* margin-right: 50%; */
+     display: block;
+    
+    
+ }
+ 
+ 
+ .two {
+     text-align:center;
+     
+ 
+    }
+ 
+  .menu{
+     background-color:#282A35;
+     height: 10%;
+     border: 5px solid green;
+     text-align: center;
+     margin:0;
+     
+  }  
+ 
+ h1{
+    color: white;
+    margin:10;
+
+
+ }
+ 
+ 
+  ul.myList{
+   
+     list-style-type: none;
+     
+     display: inline-block;
+    
+     /* margin:auto;
+     display: inline-block; */
+   }
+ 
+ 
+  li{
+     float: left;
+     padding:0 12px;
+     font-size: 12px;
+     color: azure;
+     
+     }
+ 
+ 
+ 
+ body{
+     background-color: powderblue;
+     margin: 0;
+     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+     
+ 
+    }
+ 
+  footer{
+ 
+     background-color:#282A35;
+     height: 5%;
+     border: 5px solid green;
+     bottom: 0;
+     margin-top: 5px;
+     text-align: center;
+     font-size: 12px;
+    
+ }   
+ 
+ 
+ a:link {
+ 
+     color:white;
+     text-decoration: none;
+ }
+ 
+ a:hover{
+ 
+     background-color:green;
+     font-size: 16px;
+ }
+ 
+ 
+ a:visited{
+ 
+ color: white;
+ 
+ }
+ .last{
+  
+  
+ 
+ 
+ }
+
+
+ table,tr,th,td{
+    border: solid 1px black;
+    text-align: center;
+  
+ }
+
+ table {
+    
+ }
+
+.tabletab{
+    margin: 0 30%;
+   
+
+}
+ 
+ 
+ 
+ 
